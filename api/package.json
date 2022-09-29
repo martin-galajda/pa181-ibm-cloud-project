@@ -6,7 +6,7 @@
   "author": "Martin Galajda",
   "license": "ISC",
   "dependencies": {
-    "@hapi/joi": "^15.0.3",
+    "@hapi/joi": "^15.1.1",
     "dotenv": "^8.0.0",
     "ibm-watson": "^4.1.1",
     "joi": "^14.3.1",
